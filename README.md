@@ -1,13 +1,11 @@
 ### Estatística com Python: Probabilidade e amostragem
     Curso by, Alura :D
 
-#### Conteúdos aprendidos da AULA 04:
+#### Observações da AULA 05:
 
 ###
-    - Os conceitos de população e amostra;
-    - A identificação de populações finita e infinita;
-    - Quando utilizar a técnica de amostragem em um estudo;
-    - Técnicas de seleção de amostra, como:
-        *Amostragem aleatória simples
-        *Amostragem estratificada
-        *Amostragem por conglomerados
+    - Conceituação de parâmetros e de estimativa
+    - Teorema do limite central
+    - Níveis de confiança e de significância
+    - Obter a margem de erro de um experimento
+    - Obter intervalos de confiança para uma estimativa pontual (estimação intervalar)
