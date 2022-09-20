@@ -1,11 +1,8 @@
 ### Estatística com Python: Probabilidade e amostragem
     Curso by, Alura :D
 
-#### Observações da AULA 05:
+#### Conteúdos da AULA 06:
 
 ###
-    - Conceituação de parâmetros e de estimativa
-    - Teorema do limite central
-    - Níveis de confiança e de significância
-    - Obter a margem de erro de um experimento
-    - Obter intervalos de confiança para uma estimativa pontual (estimação intervalar)
+    - A determinação do tamanho de uma amostra, para garantir que esta seja representativa da população;
+    - O cálculo de tamanho de amostra para variáveis quantitativas finitas e infinitas.
