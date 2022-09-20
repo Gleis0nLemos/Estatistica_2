@@ -1,9 +1,13 @@
 ### Estatística com Python: Probabilidade e amostragem
     Curso by, Alura :D
 
-#### Vistos, AULA 03:
+#### Conteúdos aprendidos da AULA 04:
 
 ###
-    - Os conceitos básicos da distribuição normal de probabilidades
-    - Trabalhar com a tabela padronizada Z
-    - Obter as probabilidades utilizando a distribuição normal em um conjunto de situações
+    - Os conceitos de população e amostra;
+    - A identificação de populações finita e infinita;
+    - Quando utilizar a técnica de amostragem em um estudo;
+    - Técnicas de seleção de amostra, como:
+        *Amostragem aleatória simples
+        *Amostragem estratificada
+        *Amostragem por conglomerados
